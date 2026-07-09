@@ -8,7 +8,7 @@
   "a4_microSySTEM_Barrier.lightsOFF|block": "éteindre feu",
   "a4_microSySTEM_Barrier.presenceSensor|block": "présence détectée",
   "a4_microSySTEM_Barrier.readID|block": "lire badge RFID",
-  "a4_microSySTEM_Barrier.rgb|block": "aller le feu en rouge %red|vert %green|bleu %blue",
+  "a4_microSySTEM_Barrier.rgb|block": "allumer le feu en rouge %red|vert %green|bleu %blue",
   "a4_microSySTEM_Barrier.setRingColor|block": "allumer feu en %color",
   "a4_microSySTEM_Barrier.setServoAngle|block": "fixer angle servomoteur à %angle",
   "a4_microSySTEM_Barrier.barrier|block": "%action barrière",
