@@ -11,6 +11,7 @@
   "a4_microSySTEM_Barrier.rgb|block": "turn on the light in red %red|green %green|blue %blue",
   "a4_microSySTEM_Barrier.setRingColor|block": "light on in %color",
   "a4_microSySTEM_Barrier.setServoAngle|block": "set servo angle %angle",
+  "a4_microSySTEM_Barrier.barrier|block": "%action barrier",
   "a4_microSySTEM_Barrier|block": "a4_microSySTEM_Barrier",
   "{id:category}A4_microSySTEM_Barrier": "A4_microSySTEM_Barrier"
 }
