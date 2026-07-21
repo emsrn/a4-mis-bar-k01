@@ -1,5 +1,5 @@
 //% weight=100 color=#F29C00 icon="\uf2db" block="A4 microSySTEM Barrier"
-namespace a4microSySTEMBarrier {
+namespace a4_microSySTEM_Barrier {
     let buffer = ""
 
     function hexCharValue(c: string): number {
